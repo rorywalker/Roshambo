@@ -1,0 +1,70 @@
+
+
+.title {
+  color: royalblue;
+  font-size: 6rem;
+  font-weight: bold;
+  text-align: center;
+}
+
+.imgContainer {
+  height: 400px;
+}
+
+.picture {
+  height: 100%;
+  width: 100%;
+}
+
+.names {
+  color: royalblue;
+  font-size: 4rem;
+  font-weight: bold;
+  text-align: center;
+}
+
+.btnDiv {
+  padding-left: 6%;
+}
+
+.btn {
+  color: white;
+  background-color: royalblue;
+  font-size: 3rem;
+  font-weight: bold;
+  border-radius: 10px;
+
+}
+
+.spaceBelow {
+  margin-bottom: 30px;
+}
+
+#banner {
+  color: red;
+  font-size: 3rem;
+  font-weight: bold;
+  text-align: center;
+}
+
+#userWins {
+  color: black;
+  font-size: 2rem;
+  font-weight: bold;
+  margin-right: 100px;
+}
+
+#computerWins {
+  color: black;
+  font-size: 2rem;
+  font-weight: bold;
+  margin-right: 100px;
+}
+
+.moveRight1 {
+  margin-left: 48%;
+}
+
+.moveRight2 {
+  margin-left: 49%;
+}
